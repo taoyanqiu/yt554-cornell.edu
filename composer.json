@@ -1,1 +1,15 @@
-'{}' 
+{
+    "name": "peese/covid19",
+    "description": "map of covid19 positive cases in NYS",
+    "type": "project",
+    "require": {
+        "php": "^7.4"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Yanqiu Tao",
+            "email": "yt554@cornell.edu"
+        }
+    ]
+}
