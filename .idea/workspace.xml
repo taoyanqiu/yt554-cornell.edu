@@ -13,10 +13,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/DashApp.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2257">
-              <folding>
-                <element signature="e#0#11#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="85">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
@@ -40,9 +38,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="1924" />
-    <option name="y" value="565" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="2250" />
+    <option name="y" value="204" />
     <option name="width" value="1022" />
     <option name="height" value="726" />
   </component>
@@ -72,8 +70,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/DashApp.py" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -124,7 +122,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1388" y="678" width="1022" height="726" extended-state="0" />
+    <frame x="1924" y="565" width="1022" height="726" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.34552845" />
@@ -151,10 +150,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/DashApp.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2257">
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
