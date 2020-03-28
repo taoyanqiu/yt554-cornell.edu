@@ -3,13 +3,13 @@ import dash_core_components as dcc
 import dash_html_components as html
 from dash.dependencies import Input, Output
 import pandas as pd
-import cufflinks as cf
+# import cufflinks as cf
 import numpy as np
-import re
+# import re
 import json
 from urllib.request import urlopen
 import plotly.graph_objects as go
-import plotly as py
+# import plotly as py
 
 with urlopen('https://raw.githubusercontent.com/nz225/ning-lib/master/Map_NYS/NYS_Counties.geojson') as response:
     counties = json.load(response)
