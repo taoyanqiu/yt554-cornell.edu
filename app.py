@@ -49,7 +49,7 @@ external_stylesheets = [
     }
 ]
 app = dash.Dash(__name__, external_stylesheets=external_stylesheets)
-
+server = app.server
 '''
 ~~~~~~~~~~~~~~~~
 ~~ APP LAYOUT ~~
@@ -155,4 +155,4 @@ if __name__ == '__main__':
   #app.run('localhost', 5000)
   #export FLASK_ENV=development
   #flask run
-  app.run_server(debug=True, use_reloader=False)
+  app.run_server(debug=True)#, use_reloader=False)
