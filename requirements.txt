@@ -57,7 +57,7 @@ Deprecated==1.2.6
 diff-match-patch==20181111
 distributed==2.12.0
 dj-database-url==0.5.0
-Django==3.0.4
+Django==3.1.13
 django-core==1.4.1
 django-heroku==0.3.1
 docutils==0.16
